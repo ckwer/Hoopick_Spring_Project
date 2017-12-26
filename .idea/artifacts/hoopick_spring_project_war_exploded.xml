@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hoopick_spring_project:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/hoopick_spring_project_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="hoopick_spring_project/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hoopick_spring_project" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
