@@ -7,6 +7,16 @@
     <groupId>com.hoopick</groupId>
     <artifactId>hoopick_spring_project</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
+
+    <dependencies>
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-webmvc</artifactId>
+        <version>4.3.6.RELEASE</version>
+    </dependency>
+    </dependencies>
+
 
 
 </project>
